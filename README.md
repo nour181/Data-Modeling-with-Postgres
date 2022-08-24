@@ -1,3 +1,5 @@
+# Create Sparkify Database
+
 ## Project Summary:
 
 ##### The objective of this project is to create an analytics database for a music streaming service called Sparkify, they seek to understand what, when and how users are playing songs on the company's music app, they want an easy way to query and analyze data that is on json files on the user activity on their app
